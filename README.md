@@ -17,7 +17,7 @@ A Redis-like in-memory database built from scratch in Go — reimplements core d
 **[MiniSQL](https://github.com/RahulRingane/MiniSQL)**
 A relational database built from scratch in Go — implements a B+ tree storage engine, free list management, transaction support, and concurrent reads.
 
-**[WebAnalytics]**
+**[WebAnalytics](https://github.com/RahulRingane/webAnalytics)**
 A real-time analytics platform built with Next.js — handles event ingestion, uptime status monitoring, and live dashboard updates.
 
 ---
