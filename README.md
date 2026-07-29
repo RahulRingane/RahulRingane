@@ -1,4 +1,4 @@
-### Hey, I'm Rahul 👋
+### Hey, I'm Rahul 
 
 I'm a **full-stack developer** with a strong interest in **systems-level programming** — I like building things end-to-end, from web UIs down to databases and kernel-level networking.
 
