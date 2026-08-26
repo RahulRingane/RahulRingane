@@ -1,8 +1,9 @@
 ### Hey, I'm Rahul 
 
-I'm a **full-stack developer** with a strong interest in **systems-level programming** — I like building things end-to-end, from web UIs down to databases and kernel-level networking.
+I'm a **full-stack developer** with a strong interest in **Agentic AI** and **systems-level programming**. I enjoy building things end-to-end, from web UIs and APIs down to databases and low-level systems.
 
-Currently exploring how load balancers, databases, and storage engines work under the hood, alongside full-stack web development.
+Currently exploring **Agentic AI systems, databases, and distributed systems**, while deepening my understanding of how these technologies work under the hood.
+
 
 ---
 
