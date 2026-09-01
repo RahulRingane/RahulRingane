@@ -10,7 +10,7 @@ Currently exploring **Agentic AI systems, databases, and distributed systems**, 
 ### Things I've Built
 
 **[FastVIP](https://github.com/RahulRingane/FastVIP)**
-A Layer 4 load balancer built in Go using Linux IPVS and iptables — routes traffic at the kernel level for high-performance, low-latency load balancing.
+A high-performance Layer 4 load balancer built in Go using Linux IPVS and iptables, with a control plane for configuration, reconciliation, and health checks, plus Prometheus-based monitoring and metrics for real-time observability.
 
 **[Redix](https://github.com/RahulRingane/Redix)**
 A Redis-like in-memory database built from scratch in Go — reimplements core data structures and command handling to explore how key-value stores work under the hood.
