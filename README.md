@@ -37,3 +37,8 @@ A real-time analytics platform built with Next.js — handles event ingestion, u
 
 - GitHub: [@RahulRingane](https://github.com/RahulRingane)
 - LinkedIn: [linkedin.com/in/rahulringane](https://www.linkedin.com/in/rahul-ringane-3a6b792b7/)
+
+
+### GitHub Contributions
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=RahulRingane&hide_border=true)
